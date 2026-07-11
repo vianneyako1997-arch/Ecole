@@ -1,0 +1,6 @@
+{
+  "name": "Présence École",
+  "description": "Application de gestion de présence scolaire avec espaces Enseignant, Parent et Administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
